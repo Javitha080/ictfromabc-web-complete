@@ -1,0 +1,6 @@
+enum-own-phone: CODE:200 SIZE:15 :: {"exists":true}
+enum-random-phone: CODE:200 SIZE:16 :: {"exists":false}
+admin-dashboard-anon: CODE:401 SIZE:30 :: {"message":"Unauthenticated."}
+public-reviews: CODE:200 SIZE:4691 :: {"data":[{"id":161,"review":"Best system for students to work on their own. The support we get is amazing too. And for those who are actually willing to think for themselves, Ravindu sir's teachings are the best (Although those who are waiting for the teachers to hand out all the answers may struggle with this system). Thank you for your efforts, everyone..","first_name":"Kalindu","last_name":"Kal
+old-asset-font: CODE:404 SIZE:3082 :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../../favicon.jpg" /> 		<meta name="viewport" content="width=device-width, initial-scale=1" /> 		<!-- <meta name="description" content="Learn ICT with ICTFromABC: tutorials, past papers, lesson maps, model papers, and exam-focused content for A/L and O/L students in Sri Lanka." /> -->     	<title>ictfro
+method-post-courses: CODE:405 SIZE:106 :: {     "message": "The POST method is not supported for route api/courses. Supported methods: GET, HEAD." }

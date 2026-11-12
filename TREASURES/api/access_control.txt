@@ -1,0 +1,16 @@
+/api/user [auth] 200 476 :: {"whatsapp_number":"0766586061","telegram_number":"0766586061","birthday":"2008-10-09","course_id":"2027-al","medium":"S","school":"Dharmapala Vidyalaya Pannipitiya","institute_id":2,"address":"730\/1a sri mahinda mavath
+/api/user [anon] 401 30 :: {"message":"Unauthenticated."}
+/api/courses [auth] 200 1483 :: {"al":[{"id":"al-2028","title":"A\/L 2028","type":"al","updated_at":"2026-05-12T19:14:02.000000Z","telegram_link":"https:\/\/t.me\/ictfromabc28"},{"id":"2027-al","title":"A\/L 2027","type":"al","updated_at":"2026-02-26T1
+/api/courses [anon] 200 1483 :: {"al":[{"id":"al-2028","title":"A\/L 2028","type":"al","updated_at":"2026-05-12T19:14:02.000000Z","telegram_link":"https:\/\/t.me\/ictfromabc28"},{"id":"2027-al","title":"A\/L 2027","type":"al","updated_at":"2026-02-26T1
+/api/institutes [auth] 200 238 :: [{"id":1,"name":"Nanik, Gampaha"},{"id":2,"name":"Sakya, Nugegoda"},{"id":3,"name":"Sipwin, Kurunegala"},{"id":4,"name":"IMS, Kandy"},{"id":5,"name":"Yahansa, Kiribathgoda"},{"id":6,"name":"Online Only"},{"id":7,"name":"
+/api/institutes [anon] 200 238 :: [{"id":1,"name":"Nanik, Gampaha"},{"id":2,"name":"Sakya, Nugegoda"},{"id":3,"name":"Sipwin, Kurunegala"},{"id":4,"name":"IMS, Kandy"},{"id":5,"name":"Yahansa, Kiribathgoda"},{"id":6,"name":"Online Only"},{"id":7,"name":"
+/api/public/tutes [auth] 200 52196 :: {"tutes":[{"id":10,"title":"English Medium Pastpaper Book (2011-2023)","description":"2011 \u0dc3\u0dd2\u0da7 2023 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0db4
+/api/public/tutes [anon] 200 52196 :: {"tutes":[{"id":10,"title":"English Medium Pastpaper Book (2011-2023)","description":"2011 \u0dc3\u0dd2\u0da7 2023 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0dc0\u0dd2\u0db7\u0dcf\u0d9c \u0db4
+/api/telegram [auth] 200 306 :: {"data":[{"id":"al-2028","title":"A\/L 2028","telegram_link":"https:\/\/t.me\/ictfromabc28"},{"id":"2027-al","title":"A\/L 2027","telegram_link":"https:\/\/t.me\/+TnzskDKMTexiOGE1"},{"id":"2026-al","title":"A\/L 2026","t
+/api/telegram [anon] 200 306 :: {"data":[{"id":"al-2028","title":"A\/L 2028","telegram_link":"https:\/\/t.me\/ictfromabc28"},{"id":"2027-al","title":"A\/L 2027","telegram_link":"https:\/\/t.me\/+TnzskDKMTexiOGE1"},{"id":"2026-al","title":"A\/L 2026","t
+/api/notifications [auth] 200 1316 :: {"data":[{"id":"f12bb060-d215-4c6b-a3e8-12b25720068c","data":{"msg":"Model Paper is Added. Answer It and Upload it to the corresponding Location","link":"\/dashboard\/model-papers"},"read_at":null,"created_at":"2026-08-3
+/api/notifications [anon] 401 30 :: {"message":"Unauthenticated."}
+/api/admin/courses [auth] 403 22 :: {"msg":"Unauthorized"}
+/api/admin/courses [anon] 401 30 :: {"message":"Unauthenticated."}
+/api/dashboard/myLessons [auth] 404 39 :: {"msg":"Oops..! Something is Missing."}
+/api/dashboard/myLessons [anon] 404 39 :: {"msg":"Oops..! Something is Missing."}

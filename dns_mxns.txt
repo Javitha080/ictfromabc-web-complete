@@ -1,0 +1,4 @@
+ictfromabc.com [[35mNS[0m] [[32mnadia.ns.cloudflare.com[0m] 
+ictfromabc.com [[35mNS[0m] [[32mvenkat.ns.cloudflare.com[0m] 
+ictfromabc.com [[35mSOA[0m] [[32mnadia.ns.cloudflare.com[0m] 
+ictfromabc.com [[35mSOA[0m] [[32mdns.cloudflare.com[0m] 

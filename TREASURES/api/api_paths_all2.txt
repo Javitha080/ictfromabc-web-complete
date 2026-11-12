@@ -1,0 +1,9 @@
+/auth/forgot-password
+/auth/register
+/forgot-password/request-otp/phone/${o}
+/forgot-password/reset/phone/${o}
+/forgot-password/validate-otp/phone/${o}
+/public/courses/${t}
+/request-otp-v2/${o}
+/validate-otp-v2/${o}
+/validate-phone-number/${o}

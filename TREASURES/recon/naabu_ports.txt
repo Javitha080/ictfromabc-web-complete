@@ -1,0 +1,16 @@
+www.ictfromabc.com:8443
+www.ictfromabc.com:8080
+www.ictfromabc.com:443
+www.ictfromabc.com:80
+ictfromabc.com:8443
+ictfromabc.com:8080
+ictfromabc.com:443
+ictfromabc.com:80
+ictfromabc.com:443
+ictfromabc.com:8080
+ictfromabc.com:8443
+ictfromabc.com:80
+www.ictfromabc.com:8080
+www.ictfromabc.com:8443
+www.ictfromabc.com:80
+www.ictfromabc.com:443

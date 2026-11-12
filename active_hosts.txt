@@ -1,0 +1,3 @@
+https://metrics.ictfromabc.com [200] [HSTS]
+https://www.ictfromabc.com [200] [ictfromabc - Sri Lanka's Largest ICT Learning Platform] [cloudflare] [Cloudflare,Cloudflare Browser Insights,HTTP/3]
+https://mt-link.ictfromabc.com [404] [404 - Not found] [google] [Google Cloud,Google Cloud CDN,HTTP/3]

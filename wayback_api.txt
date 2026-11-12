@@ -1,0 +1,5 @@
+20260622145841 https://ictfromabc.com/api/admin/courses 302
+20260622145841 https://ictfromabc.com/api/admin/dashboard 302
+20260622145842 https://ictfromabc.com/api/login 405
+20260622145841 https://ictfromabc.com/api/notifications 302
+20260622145839 https://ictfromabc.com/api/telegram 200

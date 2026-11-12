@@ -1,0 +1,97 @@
+# Nmap 7.98 scan initiated Wed Sep  9 11:38:03 2026 as: D:\\Pentesting\\namp\\nmap.exe -sV -sC -Pn -p 80,443,8080,8443 --script http-title,http-headers,ssl-cert,http-server-header -oN D:\\Pentesting\\ictfromabc\\nmap.txt ictfromabc.com
+Nmap scan report for ictfromabc.com (172.67.194.222)
+Host is up (0.030s latency).
+Other addresses for ictfromabc.com (not scanned): 104.21.20.239 2606:4700:3035::ac43:c2de 2606:4700:3030::6815:14ef
+
+PORT     STATE SERVICE  VERSION
+80/tcp   open  http     Cloudflare http proxy
+| http-headers: 
+|   Date: Wed, 09 Sep 2026 06:08:24 GMT
+|   Content-Type: text/html; charset=UTF-8
+|   Transfer-Encoding: chunked
+|   Connection: close
+|   Server-Timing: cfEdge;dur=1,cfOrigin;dur=0
+|   Location: https://ictfromabc.com/
+|   Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Qg5TyjMwCsvgWDoIVgeQq86EBlH%2FK2radSYEX63ZFiQjKGytGB89m1JkEkIL4A3uU%2FE%2FdEdtlOEnzlpnrr%2FheU8vCDLu%2Bjcv1MbIDEFgGROBzc6%2B8hkiMbinLhhykaQddw%3D%3D"}]}
+|   Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+|   Server: cloudflare
+|   CF-RAY: a38404ac3e4b189d-CMB
+|   alt-svc: h3=":443"; ma=86400
+|   
+|_  (Request type: GET)
+|_http-title: Did not follow redirect to https://ictfromabc.com/
+|_http-server-header: cloudflare
+443/tcp  open  ssl/http Cloudflare http proxy
+|_http-title: ictfromabc - Sri Lanka's Largest ICT Learning Platform
+| ssl-cert: Subject: commonName=ictfromabc.com
+| Subject Alternative Name: DNS:ictfromabc.com, DNS:*.ictfromabc.com
+| Issuer: commonName=WE1/organizationName=Google Trust Services/countryName=US
+| Public Key type: ec
+| Public Key bits: 256
+| Signature Algorithm: ecdsa-with-SHA256
+| Not valid before: 2026-07-18T04:21:00
+| Not valid after:  2026-10-16T05:19:29
+| MD5:     dc99 b201 8bb3 3b54 93dd 18db 37d3 9696
+| SHA-1:   f503 db28 305e c644 b2df 6811 2c21 2abc 63bc 0969
+|_SHA-256: f8f4 ecba 8890 218a f768 a99c 4b0c 93bf 31ba e1fb 43b6 3eeb d391 6b90 a991 3801
+| http-headers: 
+|   Date: Wed, 09 Sep 2026 06:08:24 GMT
+|   Content-Type: text/html
+|   Connection: close
+|   Server: cloudflare
+|   Vary: Accept-Encoding
+|   Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wuCQE%2BdPwIXotgzlAZ%2Fxag7U8pmhFd%2FhFloi1TU4I80J3laOUP%2FkXd9Gl%2BJXJDVuR4oUdWZnnHLMvtPZY78X2KuxhjHYbLZ08ebnkQ6B85m%2BNMKgoqPAMQFI9vqotboK5g%3D%3D"}]}
+|   link: <./_app/immutable/assets/Alert.DREk1JWf.css>; rel="preload"; as="style"; nopush, <./_app/immutable/assets/0.DM5afNTu.css>; rel="preload"; as="style"; nopush, <./_app/immutable/entry/start.B9OgZMnK.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/IW6k_RM6.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BitTBVkN.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/-UyI9lYi.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/CsaFGerN.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C1AHEmgY.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/B0XwC4Ot.js>; rel="modulepreload"; nopush, <./_app/immutable/entry/app.K_xawjjT.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C1FmrZbK.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/Bc7KUd1A.js>; rel="modulepreload"; nopush, <./_app/immutable/nodes/0.Bc3fdSZ9.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C7xdrqTy.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/ChegVOaO.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BWsHQjWd.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/l_GHJdNS.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BJCETRoq.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/sIZO2TiX.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BbwfBUtK.js>; rel="modulepreload"; nopush, <./_app/immutable/nodes/11.Bgz3akL6.js>; rel="modulepreload"; nopush
+|   x-sveltekit-page: true
+|   Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+|   cf-cache-status: DYNAMIC
+|   Server-Timing: cfCacheStatus;desc="DYNAMIC"
+|   Server-Timing: cfEdge;dur=2,cfOrigin;dur=129
+|   CF-RAY: a38404a9ca318e42-CMB
+|   alt-svc: h3=":443"; ma=86400
+|   
+|_  (Request type: HEAD)
+|_http-server-header: cloudflare
+8080/tcp open  http     Cloudflare http proxy
+|_http-server-header: cloudflare
+|_http-title: Did not follow redirect to https://ictfromabc.com/
+| http-headers: 
+|   Date: Wed, 09 Sep 2026 06:08:24 GMT
+|   Content-Type: text/html; charset=UTF-8
+|   Transfer-Encoding: chunked
+|   Connection: close
+|   Server-Timing: cfEdge;dur=1,cfOrigin;dur=0
+|   Location: https://ictfromabc.com/
+|   Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bosM4vvOK5rrTepYFR9K9AnH%2BLVl%2B%2BojJAXuds8YSLgyYODJfvRB3VYflUxs%2BEVeh9%2FL2zIHOTIjXhvIpmZEElhD4EADP22VD7feuqQ%2FZXeuv%2B3wUuB5n%2FPykdenUTY4FA%3D%3D"}]}
+|   Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+|   Server: cloudflare
+|   CF-RAY: a38404a9c964351b-CMB
+|   alt-svc: h3=":443"; ma=86400
+|   
+|_  (Request type: GET)
+8443/tcp open  ssl/http Cloudflare http proxy
+|_http-server-header: cloudflare
+| ssl-cert: Subject: commonName=ictfromabc.com
+| Subject Alternative Name: DNS:ictfromabc.com, DNS:*.ictfromabc.com
+| Issuer: commonName=WE1/organizationName=Google Trust Services/countryName=US
+| Public Key type: ec
+| Public Key bits: 256
+| Signature Algorithm: ecdsa-with-SHA256
+| Not valid before: 2026-07-18T04:21:00
+| Not valid after:  2026-10-16T05:19:29
+| MD5:     dc99 b201 8bb3 3b54 93dd 18db 37d3 9696
+| SHA-1:   f503 db28 305e c644 b2df 6811 2c21 2abc 63bc 0969
+|_SHA-256: f8f4 ecba 8890 218a f768 a99c 4b0c 93bf 31ba e1fb 43b6 3eeb d391 6b90 a991 3801
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+| http-headers: 
+|   Server: cloudflare
+|   Date: Wed, 09 Sep 2026 06:08:38 GMT
+|   Content-Type: text/html
+|   Content-Length: 253
+|   Connection: close
+|   CF-RAY: -
+|   
+|_  (Request type: GET)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Sep  9 11:38:43 2026 -- 1 IP address (1 host up) scanned in 40.86 seconds

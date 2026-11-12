@@ -1,0 +1,3 @@
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.ictfromabc.com:443 ["[tls10 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.ictfromabc.com:443 ["[tls11 TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.ictfromabc.com:443 ["tls10"]

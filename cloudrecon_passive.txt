@@ -1,0 +1,67 @@
+
+[96m
+  ██████╗██╗      ██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗ ██████╗ ██████╗ ███╗   ██╗
+ ██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝██╔════╝██╔═══██╗████╗  ██║
+ ██║     ██║     ██║   ██║██║   ██║██║  ██║██████╔╝█████╗  ██║     ██║   ██║██╔██╗ ██║
+ ██║     ██║     ██║   ██║██║   ██║██║  ██║██╔══██╗██╔══╝  ██║     ██║   ██║██║╚██╗██║
+ ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝██║  ██║███████╗╚██████╗╚██████╔╝██║ ╚████║
+  ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝╚═╝  ╚═══╝
+[0m[2m  Origin IP Discovery & Recon Tool — by IntSpired[0m
+  [2mFree sources: DNS · ipinfo.io · crt.sh · HackerTarget · Wayback · OTX[0m
+
+
+  [97mTarget:[0m  [96mictfromabc.com[0m
+  [97mTime:[0m    2026-09-09 11:40:53
+  [93mMode:[0m    PASSIVE — no direct contact with target
+
+[92m  [ PASSIVE / OSINT SOURCES ][0m
+
+[94m────────────────────────────────────────────────────────────[0m
+[93m  OTX ALIENVAULT (passive DNS / threat intel)[0m
+[94m────────────────────────────────────────────────────────────[0m
+  [96m·[0m  [97mOTX Passive DNS           [0m No records found
+  [96m·[0m  [97mPulse count               [0m 0
+
+[94m────────────────────────────────────────────────────────────[0m
+[93m  HACKERTARGET SUBDOMAIN SEARCH[0m
+[94m────────────────────────────────────────────────────────────[0m
+  [92m✔[0m  [97mictfromabc.com            [0m 172.67.194.222
+  [92m✔[0m  [97mmetrics.ictfromabc.com    [0m 76.223.2.56
+  [92m✔[0m  [97mmt-link.ictfromabc.com    [0m 34.96.69.148
+  [92m✔[0m  [97mwww.ictfromabc.com        [0m 104.21.20.239
+
+[94m────────────────────────────────────────────────────────────[0m
+[93m  CERTIFICATE TRANSPARENCY (crt.sh)[0m
+[94m────────────────────────────────────────────────────────────[0m
+  [96m·[0m  [97mCT Entry                  [0m autodiscover.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m cpanel.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m cpcalendars.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m cpcontacts.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m mail.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m metrics.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m mt-link.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m webdisk.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m webmail.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m www.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m www.zoom.ictfromabc.com
+  [96m·[0m  [97mCT Entry                  [0m zoom.ictfromabc.com
+
+[94m────────────────────────────────────────────────────────────[0m
+[93m  WAYBACK MACHINE (historical snapshots)[0m
+[94m────────────────────────────────────────────────────────────[0m
+  [96m·[0m  [97m20210219154445            [0m https://ictfromabc.com/
+  [96m·[0m  [97m20240604153912            [0m https://ictfromabc.com/
+  [96m·[0m  [97m20240617000058            [0m https://ictfromabc.com/
+  [96m·[0m  [97m20240815174902            [0m https://ictfromabc.com/
+  [96m·[0m  [97m20240829140456            [0m https://ictfromabc.com/
+
+[94m────────────────────────────────────────────────────────────[0m
+[93m  SUMMARY[0m
+[94m────────────────────────────────────────────────────────────[0m
+  [92m✔[0m  [97mTarget                    [0m ictfromabc.com
+  [92m✔[0m  [97mMode                      [0m Passive only
+  [92m✔[0m  [97mIPs found                 [0m none found
+
+  [2mCloudRecon by IntSpired — intspired.co.uk[0m
+
