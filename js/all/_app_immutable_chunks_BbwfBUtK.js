@@ -1,0 +1,1 @@
+var N=(D=>(D.ADMIN="ADMIN",D.SUPER_ADMIN="SUPER_ADMIN",D.STUDENT="STUDENT",D))(N||{});export{N as R};
