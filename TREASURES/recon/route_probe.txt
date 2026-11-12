@@ -1,0 +1,12 @@
+200 2998 https://www.ictfromabc.com/ :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="./favicon.jpg" /> 		<meta name="viewport" content="wid
+200 2102 https://www.ictfromabc.com/public-dashboard :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="./favicon.jpg" /> 		<meta name="viewport" content="wid
+200 2219 https://www.ictfromabc.com/public-dashboard/papers/al :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../../favicon.jpg" /> 		<meta name="viewport" content=
+200 2110 https://www.ictfromabc.com/public-dashboard/tutes :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../favicon.jpg" /> 		<meta name="viewport" content="wi
+200 5893 https://www.ictfromabc.com/auth/login :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../favicon.jpg" /> 		<meta name="viewport" content="wi
+200 6324 https://www.ictfromabc.com/auth/register :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../favicon.jpg" /> 		<meta name="viewport" content="wi
+200 5454 https://www.ictfromabc.com/auth/forgot-password :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../favicon.jpg" /> 		<meta name="viewport" content="wi
+200 2339 https://www.ictfromabc.com/dashboard/myLessons :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../favicon.jpg" /> 		<meta name="viewport" content="wi
+200 2335 https://www.ictfromabc.com/admin/courses :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../favicon.jpg" /> 		<meta name="viewport" content="wi
+200 2257 https://www.ictfromabc.com/admin/students :: <!doctype html> <html lang="en"> 	<head> 		<meta charset="utf-8" /> 		 		<link rel="icon" href="../favicon.jpg" /> 		<meta name="viewport" content="wi
+200 652 https://www.ictfromabc.com/sitemap.xml :: <?xml version="1.0" encoding="UTF-8"?> <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">   <url>     <loc>https://ictfromabc.com/public-da
+200 84 https://www.ictfromabc.com/robots.txt :: User-agent: * Allow: /public-dashboard/ Sitemap: https://ictfromabc.com/sitemap.xml 

@@ -1,0 +1,222 @@
+==================== CORS evil-origin ====================
+HTTP/1.1 200 OK
+Date: Fri, 11 Sep 2026 08:39:07 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Vary: Accept-Encoding
+link: <./_app/immutable/assets/Alert.DREk1JWf.css>; rel="preload"; as="style"; nopush, <./_app/immutable/assets/0.DM5afNTu.css>; rel="preload"; as="style"; nopush, <./_app/immutable/entry/start.B9OgZMnK.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/IW6k_RM6.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BitTBVkN.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/-UyI9lYi.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/CsaFGerN.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C1AHEmgY.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/B0XwC4Ot.js>; rel="modulepreload"; nopush, <./_app/immutable/entry/app.K_xawjjT.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C1FmrZbK.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/Bc7KUd1A.js>; rel="modulepreload"; nopush, <./_app/immutable/nodes/0.Bc3fdSZ9.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C7xdrqTy.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/ChegVOaO.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BWsHQjWd.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/l_GHJdNS.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BJCETRoq.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/sIZO2TiX.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BbwfBUtK.js>; rel="modulepreload"; nopush, <./_app/immutable/nodes/11.Bgz3akL6.js>; rel="modulepreload"; nopush
+x-sveltekit-page: true
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IRKiYJ29VVzOzjxPJkR1Y9S9BUjglXTjeSvrgplyUVhAD7maC%2BnicYJrYGA7E0ECmNlHYEztCsolO2bPVpFYG1Y%2BocZCz%2FetHBIl11TrluX80OA%2BRi5jnzsDjJwzLb7RGgWLuDHWo7VRvDirqMT9yxI%3D"}]}
+cf-cache-status: DYNAMIC
+CF-RAY: a3955c2f995d2169-CMB
+alt-svc: h3=":443"; ma=86400
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		
+		<link rel="icon" href="./favicon.jpg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!-- <meta name="description" content="Learn ICT with ICTFromABC: tutorials, past papers, lesson maps, model papers, and exam-focused content for A/L and O/L students in Sri Lanka." /> -->
+    	<title>ictfromabc - Sri Lanka's Largest ICT Learning Platform</title>
+		<!-- Add this to your HTML file -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+		<!-- SMUI Styles -->
+
+		<link rel="stylesheet" href="/smui.css" />
+	
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+		<!-- Roboto, and Roboto Mono fonts -->
+		<link
+		href="https://fonts.googleapis.com/css2?family=Roboto+M
+
+==================== cookies main ====================
+HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+Date: Fri, 11 Sep 2026 08:39:08 GMT
+Date: Fri, 11 Sep 2026 08:39:08 GMT
+Content-Type: text/html
+Content-Type: text/html
+Connection: keep-alive
+Connection: keep-alive
+Server: cloudflare
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BQTT4SoVZxxexbHzV5HZJ%2FYsrLxYM9NQlJ0KPPl6SOFf1PSCHxrKPLcV30inrweslsxPIXY3eXpyVtfTnKb1HWGA9AHQrvt%2FrRltogm6b%2F9edmvJpeQ%2F3xE5%2FyfQO%2FF1XhlriIwbIWrHzLwqxys5Rs8%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BQTT4SoVZxxexbHzV5HZJ%2FYsrLxYM9NQlJ0KPPl6SOFf1PSCHxrKPLcV30inrweslsxPIXY3eXpyVtfTnKb1HWGA9AHQrvt%2FrRltogm6b%2F9edmvJpeQ%2F3xE5%2FyfQO%2FF1XhlriIwbIWrHzLwqxys5Rs8%3D"}]}
+link: <./_app/immutable/assets/Alert.DREk1JWf.css>; rel="preload"; as="style"; nopush, <./_app/immutable/assets/0.DM5afNTu.css>; rel="preload"; as="style"; nopush, <./_app/immutable/entry/start.B9OgZMnK.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/IW6k_RM6.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BitTBVkN.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/-UyI9lYi.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/CsaFGerN.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C1AHEmgY.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/B0XwC4Ot.js>; rel="modulepreload"; nopush, <./_app/immutable/entry/app.K_xawjjT.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C1FmrZbK.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/Bc7KUd1A.js>; rel="modulepreload"; nopush, <./_app/immutable/nodes/0.Bc3fdSZ9.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C7xdrqTy.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/ChegVOaO.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BWsHQjWd.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/l_GHJdNS.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BJCETRoq.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/sIZO2TiX.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BbwfBUtK.js>; rel="modulepreload"; nopush, <./_app/immutable/nodes/11.Bgz3akL6.js>; rel="modulepreload"; nopush
+link: <./_app/immutable/assets/Alert.DREk1JWf.css>; rel="preload"; as="style"; nopush, <./_app/immutable/assets/0.DM5afNTu.css>; rel="preload"; as="style"; nopush, <./_app/immutable/entry/start.B9OgZMnK.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/IW6k_RM6.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/BitTBVkN.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/-UyI9lYi.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/CsaFGerN.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/C1AHEmgY.js>; rel="modulepreload"; nopush, <./_app/immutable/chunks/B0XwC4Ot.js>; rel="modulepreload"; nopush, <./_app/immutable/entry/app.K_xawjjT.js>; rel="modu
+
+==================== cookies api-user-anon ====================
+HTTP/1.1 401 Unauthorized
+Date: Fri, 11 Sep 2026 08:39:08 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Cache-Control: no-cache, private
+Vary: Origin
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=U9JVziJzEiwLqqjo9kH5Kn8i8su0gGu4GSBlO9jmaiOpXc4V%2FcuXYBaJfvZSjct3ywExK23m7jalBsOrMcgYDo6JVbVF%2B6ybqKfAd0MlIJZQxxlZVPhhQF7Ur1cyl%2F8zHdkw%2F15tIB1mhkq7HQ%3D%3D"}]}
+CF-RAY: a3955c359e2c8e42-CMB
+alt-svc: h3=":443"; ma=86400
+
+{"message":"Unauthenticated."}
+
+==================== OPTIONS api-login ====================
+HTTP/1.1 204 No Content
+HTTP/1.1 204 No Content
+Date: Fri, 11 Sep 2026 08:39:08 GMT
+Date: Fri, 11 Sep 2026 08:39:08 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Connection: keep-alive
+Server: cloudflare
+Server: cloudflare
+Cache-Control: no-cache, private
+Cache-Control: no-cache, private
+Access-Control-Allow-Origin: https://www.ictfromabc.com
+Access-Control-Allow-Origin: https://www.ictfromabc.com
+Vary: Origin, Access-Control-Request-Method, Access-Control-Request-Headers
+Vary: Origin, Access-Control-Request-Method, Access-Control-Request-Headers
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Headers: 
+Access-Control-Allow-Headers: 
+Access-Control-Max-Age: 0
+Access-Control-Max-Age: 0
+cf-cache-status: DYNAMIC
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H0I8U7gmyXSkXqhElf%2BZrvqOpbld9nJJKyYigRDdYns4TT8%2B0YtvhEtFoNOb94uYN%2FxuotSoQBebfDZ%2FePyNPuwG9U1HOPz6AeWzyqCKJ8w%2BnC3DhakMQTl%2FQvGp01SyqC0ZHAdQegoMHmZCxQ%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H0I8U7gmyXSkXqhElf%2BZrvqOpbld9nJJKyYigRDdYns4TT8%2B0YtvhEtFoNOb94uYN%2FxuotSoQBebfDZ%2FePyNPuwG9U1HOPz6AeWzyqCKJ8w%2BnC3DhakMQTl%2FQvGp01SyqC0ZHAdQegoMHmZCxQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+CF-RAY: a3955c37bdec351b-CMB
+CF-RAY: a3955c37bdec351b-CMB
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+
+
+
+==================== TRACE main ====================
+HTTP/1.1 405 Not Allowed
+HTTP/1.1 405 Not Allowed
+Server: cloudflare
+Server: cloudflare
+Date: Fri, 11 Sep 2026 08:39:09 GMT
+Date: Fri, 11 Sep 2026 08:39:09 GMT
+Content-Type: text/html
+Content-Type: text/html
+Content-Length: 155
+Content-Length: 155
+Connection: close
+Connection: close
+CF-RAY: -
+CF-RAY: -
+
+
+<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
+
+==================== reflected phone ====================
+HTTP/1.1 200 OK
+Date: Fri, 11 Sep 2026 08:39:09 GMT
+Content-Type: text/html;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Vary: Accept-Encoding
+Last-Modified: Mon, 07 Sep 2026 17:10:38 GMT
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2Fv00XqUpFHA76ARtc5fNjjdTlzOFin1jTJ8%2FHTaHQZSXBoyRIxSNH5elU6TPtdJQ53C02p29E3r1oPDuwlmzIeLhimeYJvOC6o8kO3mv6%2BrXCr3OdFoPjjJnBuWMvVt9CMwPBmPEshX%2Fv8a9qAKhJdM%3D"}]}
+cf-cache-status: DYNAMIC
+CF-RAY: a3955c3b48c1867f-CMB
+alt-svc: h3=":443"; ma=86400
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		
+		<link rel="icon" href="../favicon.jpg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!-- <meta name="description" content="Learn ICT with ICTFromABC: tutorials, past papers, lesson maps, model papers, and exam-focused content for A/L and O/L students in Sri Lanka." /> -->
+    	<title>ictfromabc - Sri Lanka's Largest ICT Learning Platform</title>
+		<!-- Add this to your HTML file -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+		<!-- SMUI Styles -->
+
+		<link rel="stylesheet" href="/smui.css" />
+	
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+		<!-- Roboto, and Roboto Mono fonts -->
+		<link
+		href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+		rel="stylesheet"
+		/>
+		<link
+		href="https://fonts.googleapis.com/css2?family=Material+Icons&display=swap"
+		rel="stylesheet"
+		/>
+		<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" 
+		rel="stylesheet"/>
+
+		<link href="../_app/immutable/entry/start.B9OgZMnK.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/IW6k_RM6.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BitTBVkN.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/-UyI9lYi.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CsaFGerN.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/C1AHEmgY.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/B0XwC4Ot.js" rel="modulepreload">
+		<link href="../_app/immutable/entry/app.K_xawjjT.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/C1FmrZbK.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Bc7KUd1A.js" rel="modulepreload">
+		<link href="../_app/immutable/nodes/0.Bc3fdSZ9.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/C7xdrqTy.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/ChegVOaO.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BWsHQjWd.js" rel="modulepreload">
+		<link href="../_app/immutable/chunk
+
+==================== api slash redirect target ====================
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 11 Sep 2026 08:39:09 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Location: http://www.ictfromabc.com/api/
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GN1ZcQm%2BoTGw8qNC5DrnUeG%2BYE3SRwxQIj8wNn5UKxTGgN11ngphdAPOA31pYS1DCOK7rjXA0izH3KVq1FA793UdDMibOYJ7myTDY9W6a2uvPxnITIszlfXSUwMIPYPh5CE8ncE9jxy6PiD%2FxAkYbjQ%3D"}]}
+CF-RAY: a3955c3d8a17b2fd-CMB
+alt-svc: h3=":443"; ma=86400
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+code=301 loc=http://www.ictfromabc.com/api/
+

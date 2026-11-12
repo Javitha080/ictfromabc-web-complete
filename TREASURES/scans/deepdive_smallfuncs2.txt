@@ -1,0 +1,53 @@
+==================== CORS-evil on api-login OPTIONS ====================
+HTTP/1.1 204 No Content
+Date: Fri, 11 Sep 2026 08:39:26 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Server: cloudflare
+Cache-Control: no-cache, private
+Vary: Origin, Access-Control-Request-Method
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=146IF8gfV8SQBX4cLlkq0kR6O5%2FoqZL2aav0bOpmvR33WYpbHaPrWD4MhPJkeCgZFeymkbhk3Y3CLF%2BgyW6w6cPgiSQyQhdreLGa82ZT0SL1Vqk%2FZ8IcUq5cIMS2mg%2FVX0H3mifk0MWsDRhiMQ%3D%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+CF-RAY: a3955ca44b6d2664-CMB
+alt-svc: h3=":443"; ma=86400
+
+
+
+==================== GET login wrong-method ====================
+HTTP/1.1 405 Method Not Allowed
+Date: Fri, 11 Sep 2026 08:39:26 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Allow: POST
+Cache-Control: no-cache, private
+Vary: Origin
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LwjqtZCWIrIE78fInyLrBImRsohyN2x6EzDKg4xT419hanrqE2DHY9Hdf0o00zhMci9epkNKLCQjKsrdR9f3RfnXvpPa8d20uRSQdM4FvzcdSyTxS0wRX2sps%2BJqkDA9QhgI8swwtm4w2yhv6w%3D%3D"}]}
+CF-RAY: a3955ca68fe3351b-CMB
+alt-svc: h3=":443"; ma=86400
+
+{
+    "message": "The GET method is not supported for route api/login. Supported methods: POST."
+}
+
+==================== PUT api-user anon ====================
+HTTP/1.1 401 Unauthorized
+Date: Fri, 11 Sep 2026 08:39:27 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Cache-Control: no-cache, private
+Vary: Origin
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LBdwHBcXITcYR7vTDcTnfsy1oKGipU%2Bfz9lOpByU5pisWBofuqPTzuVLMQ%2F6vstu24WiOlDPU6v0y61qNBx95eBeQZYfjK6XD1i0cHg8LtxEJfCol9Mms4yHQj0Hk531u8UipEi0WRjjC4ZUsA%3D%3D"}]}
+CF-RAY: a3955caa8820b303-CMB
+alt-svc: h3=":443"; ma=86400
+
+{"message":"Unauthenticated."}
+

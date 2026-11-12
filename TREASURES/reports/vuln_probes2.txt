@@ -1,0 +1,26 @@
+LOGIN HEADERS
+HTTP/1.1 422 Unprocessable Entity
+Date: Fri, 11 Sep 2026 09:41:50 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Cache-Control: no-cache, private
+X-RateLimit-Limit: 30
+X-RateLimit-Remaining: 24
+Vary: Origin
+cf-cache-status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=efjZ606M6fXALGgtBkcPM5ghUeLVW934IxDtnQoQjd9%2F9YAcUvUE0iRGhE7Kke8DaDSfFzYOmUK6vo1vokxBQoPidp7xOjkMdVAy6dxBraXOcJsVtHnCi6MFKNDeEQFinyo5EdlVYjT7w2asTA%3D%3D"}]}
+CF-RAY: a395b8100a052664-CMB
+alt-svc: h3=":443"; ma=86400
+
+
+
+SQLI
+{"message":"Phone number is invalid (and 1 more error)","errors":{"phoneNumber":["Phone number is invalid"],"password":["Password is too short"]}}
+CODE:422
+
+ENUM GARBAGE
+{"msg":"Invalid Phone Number"}
+CODE:400
